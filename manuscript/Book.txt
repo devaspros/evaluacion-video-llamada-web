@@ -5,6 +5,11 @@
 
 005_tabla_comparativa.md
 
-006_conclusion.md
-007_gracias_por_leer.md
-008_acerca_de.md
+006_evaluando_whereby.md
+007_evaluando_joinme.md
+008_evaluando_eyeson.md
+009_evaluando_team_video.md
+
+090_conclusion.md
+091_gracias_por_leer.md
+092_acerca_de.md
