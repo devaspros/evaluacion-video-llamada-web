@@ -1,4 +1,4 @@
-# Evaluando 4 Herramientas de Vídeo Llamadas en Web
+# Evaluando 4 Herramientas de Vídeo Llamadas Web
 
 Puedes leer en [Leanpub](https://leanpub.com/herramientas-video-llamada-web/).
 
