@@ -1,5 +1,7 @@
 ## Evaluando 4 Herramientas de Vïdeo Llamadas en Web
 
+Estudiando herrramientas para hacer vídeo llamadas usando un navegador web desde cualquier dispositiv.
+
 ## Generar epub con Pandoc
 
 Este reporte puede ser generado como EPUB usando [Pandoc](https://pandoc.org).
