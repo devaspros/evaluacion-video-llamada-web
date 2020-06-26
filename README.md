@@ -1,4 +1,6 @@
-## Evaluando 4 Herramientas de Vïdeo Llamadas en Web
+# Evaluando 4 Herramientas de Vídeo Llamadas Web
+
+Puedes leer en [Leanpub](https://leanpub.com/herramientas-video-llamada-web/).
 
 Estudiando herrramientas para hacer vídeo llamadas usando un navegador web desde cualquier dispositiv.
 
