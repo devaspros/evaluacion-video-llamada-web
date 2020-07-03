@@ -42,7 +42,7 @@ Si bien lo principal es poder hacer una vídeo llamada usando un navegador, cont
 
 La capacidad de compartir pantalla, si bien no la puse a prueba, un dato importante es que se da de manera nativa.
 
-### ¿Qué significa que sea nativa?
+### ¿Qué significa que sea nativa? ###
 
 Antes del gran auge de WebRTC, compartir pantalla en el navegador requería de la instalación de plugins o complementos. Esto es un inconveniente porque estamos haciendo que el usuario tenga que instalar algo más y va en contra de hacer una vídeo llamada desde el navegador.
 
