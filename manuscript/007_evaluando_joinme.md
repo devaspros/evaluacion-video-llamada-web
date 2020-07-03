@@ -12,7 +12,7 @@ Lo primero es que Join Me no tiene capa gratuita como lo hace Whereby. Sí tenem
 
 El proceso de registo es bastante sencillo y con un paso a paso para configurar datos básicos del usuario y del entorno de uso en el servicio.
 
-![registrando](../images/joinme/001-joinme.png)
+![Registrando en Joinme](images/joinme/001-joinme.png)
 
 ## Período de Prueba
 
@@ -26,19 +26,19 @@ Cabe decir que los 14 días de prueba sirven para probar lo principal de Join Me
 
 Sin embargo, varias otras características solo están disponibles una vez se ha pagado por el servicio.
 
-![días de prueba](../images/joinme/002-joinme.png)
+![14 Días de prueba](images/joinme/002-joinme.png)
 
 ## Características
 
 Todo lo que podemos probar lo usé en una vídeo llamada con un colega y fue de maravilla. Toda la llamada la voz y vídeo fue estable. Si bien la interfaz luce muy sencilla, en realidad es justo lo necesario para el uso principal del servicio.
 
-![en llamada](../images/joinme/005-joinme.png)
+![En una llamada](images/joinme/005-joinme.png)
 
 Como la mayoría de estos servicios, la voz y vídeo no son suficientes (irónicamente) así que contar con un chat es sumamente importante. ¿Por qué importante un chat? Porque si se necesita compartir una imagen, un texto, fragmento de código, o contar algo mientras el principal interlocutor habla.
 
 Si bien lo principal es poder hacer una vídeo llamada usando un navegador, contar con un chat es un complemento ideal para poder tener todas las opcines de comunicación en un mismo entorno y momento.
 
-![chat en vivo](../images/joinme/006-joinme.png)
+![Chat en vivo](images/joinme/006-joinme.png)
 
 La capacidad de compartir pantalla, si bien no la puse a prueba, un dato importante es que se da de manera nativa.
 
@@ -48,11 +48,11 @@ Antes del gran auge de WebRTC, compartir pantalla en el navegador requería de l
 
 Hoy en día, Join Me permite compartir pantalla de manera nativa usando solo WebRTC.
 
-![compartir pantalla](../images/joinme/007-joinme.png)
+![Compartir pantalla nativa](images/joinme/007-joinme.png)
 
 ## Lo que no se pudo probar
 
-![bloqueados solo pro](../images/joinme/004-joinme.png)
+![Bloqueados. Solo plan PRO](images/joinme/004-joinme.png)
 
 Anotaciones durante la llamada, poner en mudo a todos los participantes y grabar la llamada son de las características que no se pueden probar a no ser que se sea usuario de pago.
 
