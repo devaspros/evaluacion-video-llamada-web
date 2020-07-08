@@ -1,6 +1,6 @@
 # Evaluando Team Video
 
-No recuerdo cómo llegué a Team Video. Creo que fue por Twitter. Hasta antes de conocerlo, solo sabía de Whereby, Eyeson y JoinMe. Team Video nace en un momento donde WebRTC está demostrando cada vez más su poder y lo hace con unos adicionales bien interesantes.
+Creo que llegué a Team Video por Twitter. Hasta antes de conocerlo, solo sabía de Whereby, Eyeson y JoinMe. Team Video nace en un momento donde WebRTC está demostrando cada vez más su poder y lo hace con unos adicionales bien interesantes.
 
 ## Características
 
@@ -45,3 +45,7 @@ Como en todos los servicios mencionados en este reporte, Team Video ofrece compa
 ![Grabar](images/team-video/008-teamvideo.png)
 
 Finalmente, Team Video permite grabar la llamada. Una caracaterística tal vez menospreciada pero muy útil en equipos distribuidos y asincronos.
+
+## Conclusión
+
+Team Video es de las más nuevas y por eso mismo no es menos importante. Creo que llega a ocupar un lugar importante el espacio de las herramientas para crear vídeo llamadas desde un navegador con características frescas y nuevos enfoques a las reuniones por internet.

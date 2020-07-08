@@ -1,6 +1,6 @@
 # Evaluando Join Me
 
-Cuando conocí Join Me, ya había usado en varias ocasiones a Whereby (antes Appear In).
+Cuando conocí Join Me, ya había usado en varias ocasiones a Whereby.
 
 Fue en una llamada con una cliente de la empresa. Esta duró alrededor de una hora y en la misma el audio se portó muy bien. Además, se compartió pantalla por algunos minutos y también funcionó correctamente.
 
@@ -44,7 +44,7 @@ La capacidad de compartir pantalla, si bien no la puse a prueba, un dato importa
 
 **¿Qué significa que sea nativa?**
 
-Antes del gran auge de WebRTC, compartir pantalla en el navegador requería de la instalación de plugins o complementos. Esto es un inconveniente porque estamos haciendo que el usuario tenga que instalar algo más y va en contra de hacer una vídeo llamada desde el navegador.
+A los inicios de WebRTC, compartir pantalla en el navegador requería de la instalación de plugins o complementos. Esto es un inconveniente porque estamos haciendo que el usuario tenga que instalar algo más y va en contra de hacer una vídeo llamada desde el navegador.
 
 Hoy en día, Join Me permite compartir pantalla de manera nativa usando solo WebRTC.
 
@@ -57,3 +57,7 @@ Hoy en día, Join Me permite compartir pantalla de manera nativa usando solo Web
 Anotaciones durante la llamada, poner en mudo a todos los participantes y grabar la llamada son de las características que no se pueden probar a no ser que se sea usuario de pago.
 
 En todo caso, esto nos da un vistazo del potencial de este servicio. Todo el potencial de Join Me se puede usar con tener un navegador web que bien ya están presentes en computadores, tablets y celulares.
+
+## Conclusión
+
+Un muy buen servicio encontrarás en Join Me. Es una pena que no tenga capa gratuita pero las funcionalidades que ofrecen justifican su precio y tiempo de prueba.

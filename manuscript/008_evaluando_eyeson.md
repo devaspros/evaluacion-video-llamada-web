@@ -2,7 +2,7 @@
 
 No recuerdo plenamente como llegué a Eyeson pero conozco de su existencia de hace ya un par de años.
 
-A continuación algunos detalles del servicio que pinta como una buena alternativa.
+A continuación algunos detalles del servicio que pinta como una buena alternativa a Whereby y Join Me.
 
 ## Registro
 
@@ -12,7 +12,7 @@ Así como Join Me, Eyeson no ofrece capa gratuita y en cambio ofrece 14 días de
 
 Una vez nos hayamos registrados, podemos seguir una especie de _wizard_ para completar el mismo y crear la primera sala.
 
-Detalle es el nivel de personalización que puede tener la creación de una sala que no se da en otros servicios.
+Un buen detalle es el nivel de personalización que puede tener la creación de una sala que no se da en otros servicios.
 
 ## Período de Prueba
 
@@ -55,3 +55,7 @@ A diferencia de Join Me y sus 14 días de pruebas, el período de prueba de Eyes
 Y vaya que es importante porque es un compromiso serio pagar el servicio y es bueno poder probarlo a fondo, en general.
 
 ![Pagar eyeson](images/eyeson/010-eyeson.png)
+
+## Conclusión
+
+Es una pena que no haya capa gratuita en este servicio tan bueno como lo es Eyeson. La lista de características es muy buena y llama mucho la atención poder transmitira una llamada.
