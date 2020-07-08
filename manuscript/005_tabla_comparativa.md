@@ -4,8 +4,8 @@ A continuación, ponemos en perspectiva las herramientas que se evaluan en este 
 
 ## [Whereby](https://whereby.com)
 
-- Precio Base: USD $9.99
-- Capa Gratuita: Sí
+- Precio Base: **USD $9.99**
+- Capa Gratuita: **Sí**
 - Algunas Características:
   - Integraciones
   - Bloquear nombre de sala
@@ -13,8 +13,8 @@ A continuación, ponemos en perspectiva las herramientas que se evaluan en este 
 
 ## [Joinme](https://www.join.me/es)
 
-- Precio Base: USD $10
-- Capa Gratuita: No
+- Precio Base: **USD $10**
+- Capa Gratuita: **No**
 - Algunas Características:
   - Sin límite de tiempo
   - Compartir pantall
@@ -22,16 +22,16 @@ A continuación, ponemos en perspectiva las herramientas que se evaluan en este 
 
 ## [Eyeson](https://www.eyeson.com)
 
-- Precio Base: USD $9
-- Capa Gratuita: No
+- Precio Base: **USD $9**
+- Capa Gratuita: **No**
 - Algunas Características:
   - Transmisión de llamada
   - Grabación de llamada
 
 ## [Team Video](https://team.video)
 
-- Precio Base: USD $ 15
-- Capa Gratuita: Sí
+- Precio Base: **USD $15**
+- Capa Gratuita: **Sí**
 - Algunas Características:
   - Hasta 25 participantes
   - Sin límite de tiempo
